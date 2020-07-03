@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { FormBuilder } from '@angular/forms';
+import { FormBuilder, FormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
 import { ReactiveFormsModule } from '@angular/forms';
 
@@ -14,7 +14,7 @@ import { BikeAddingComponent } from './bike-adding/bike-adding.component';
     BikeAddingComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule,FormsModule,
     ReactiveFormsModule,
     
   ],

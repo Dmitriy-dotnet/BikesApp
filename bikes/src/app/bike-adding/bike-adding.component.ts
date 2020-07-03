@@ -8,8 +8,12 @@ import { BikeType } from '../models/enums/bikeType';
   styleUrls: ['./bike-adding.component.css']
 })
 export class BikeAddingComponent implements OnInit {
-
-  constructor() { }
+  bikeType1=null;
+  bikeType = BikeType;
+  enumKeys = [];
+  constructor() {
+    this.enumKeys = Object.keys(this.bikeType).filter(f=>!isNaN(Number(f)));
+   }
   bikeForm = new FormGroup(
     {
       name : new FormControl(""),
