@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup } from '@angular/forms';
 import { BikeType } from '../models/enums/bikeType';
 
+
 @Component({
   selector: 'app-bike-adding',
   templateUrl: './bike-adding.component.html',

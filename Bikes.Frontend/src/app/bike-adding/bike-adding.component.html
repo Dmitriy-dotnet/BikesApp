@@ -1,18 +1,20 @@
+
     <form [formGroup]="bikeForm">
-            <label>
-                Name:
-                <input type="text" formControlName="name">
-            </label>  
-            <label>
-                Type:
-                <select placeholder="select type..." >
-                    <option *ngFor="let t of enumKeys" [value]="t">
-                        {{bikeType[t]}}
-                    </option>
-                </select>
+        <label>
+            Name:
+            <input type="text" formControlName="name">
+        </label>  
+        <label>
+            Type:
+            <select placeholder="select type..." >
+                <option *ngFor="let t of enumKeys" [value]="t">
+                    {{bikeType[t]}}
+                </option>
+            </select>
             </label>  
             <label>
                 Price:
                 <input type="number" formControlName="name">
             </label> 
-    </form>
+        </form>
+        
