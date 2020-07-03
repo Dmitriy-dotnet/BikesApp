@@ -1,0 +1,9 @@
+C:\Users\main\source\repos\Bikes.API\Bikes.DAL\bin\Debug\netcoreapp3.1\Bikes.DAL.deps.json
+C:\Users\main\source\repos\Bikes.API\Bikes.DAL\bin\Debug\netcoreapp3.1\Bikes.DAL.dll
+C:\Users\main\source\repos\Bikes.API\Bikes.DAL\obj\Debug\netcoreapp3.1\Bikes.DAL.csprojAssemblyReference.cache
+C:\Users\main\source\repos\Bikes.API\Bikes.DAL\obj\Debug\netcoreapp3.1\Bikes.DAL.AssemblyInfoInputs.cache
+C:\Users\main\source\repos\Bikes.API\Bikes.DAL\obj\Debug\netcoreapp3.1\Bikes.DAL.AssemblyInfo.cs
+C:\Users\main\source\repos\Bikes.API\Bikes.DAL\bin\Debug\netcoreapp3.1\Bikes.DAL.pdb
+C:\Users\main\source\repos\Bikes.API\Bikes.DAL\obj\Debug\netcoreapp3.1\Bikes.DAL.csproj.CoreCompileInputs.cache
+C:\Users\main\source\repos\Bikes.API\Bikes.DAL\obj\Debug\netcoreapp3.1\Bikes.DAL.dll
+C:\Users\main\source\repos\Bikes.API\Bikes.DAL\obj\Debug\netcoreapp3.1\Bikes.DAL.pdb

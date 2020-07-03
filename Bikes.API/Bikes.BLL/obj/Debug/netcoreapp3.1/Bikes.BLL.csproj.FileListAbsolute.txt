@@ -1,0 +1,12 @@
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\bin\Debug\netcoreapp3.1\Bikes.BLL.deps.json
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\bin\Debug\netcoreapp3.1\Bikes.BLL.dll
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\bin\Debug\netcoreapp3.1\Bikes.BLL.pdb
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\bin\Debug\netcoreapp3.1\Bikes.DAL.dll
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\bin\Debug\netcoreapp3.1\Bikes.DAL.pdb
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\obj\Debug\netcoreapp3.1\Bikes.BLL.csprojAssemblyReference.cache
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\obj\Debug\netcoreapp3.1\Bikes.BLL.AssemblyInfoInputs.cache
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\obj\Debug\netcoreapp3.1\Bikes.BLL.AssemblyInfo.cs
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\obj\Debug\netcoreapp3.1\Bikes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\obj\Debug\netcoreapp3.1\Bikes.BLL.csproj.CopyComplete
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\obj\Debug\netcoreapp3.1\Bikes.BLL.dll
+C:\Users\main\source\repos\Bikes.API\Bikes.BLL\obj\Debug\netcoreapp3.1\Bikes.BLL.pdb
