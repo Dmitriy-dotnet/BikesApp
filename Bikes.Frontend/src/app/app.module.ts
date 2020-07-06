@@ -6,12 +6,12 @@ import {MatCardModule} from '@angular/material/card'
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
-import { BikeAddingComponent } from './bike-adding/bike-adding.component';
+import { BikeComponent } from './bike/bike.component';
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    BikeAddingComponent
+    BikeComponent,
   ],
   imports: [
     BrowserModule,FormsModule,

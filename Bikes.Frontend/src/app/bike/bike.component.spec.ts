@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { BikeAddingComponent } from './bike-adding.component';
+import { BikeComponent } from './bike.component';
 
-describe('BikeAddingComponent', () => {
-  let component: BikeAddingComponent;
-  let fixture: ComponentFixture<BikeAddingComponent>;
+describe('BikeComponent', () => {
+  let component: BikeComponent;
+  let fixture: ComponentFixture<BikeComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ BikeAddingComponent ]
+      declarations: [ BikeComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(BikeAddingComponent);
+    fixture = TestBed.createComponent(BikeComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

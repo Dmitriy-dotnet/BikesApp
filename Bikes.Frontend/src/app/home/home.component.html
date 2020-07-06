@@ -4,6 +4,38 @@
 <body>    
     <div class="container">   
         <h3> Create new rent </h3>
-            <app-bike-adding></app-bike-adding>
+        <mat-card >
+    
+    
+            <form [formGroup]="bikeForm" style="display: inline-block;">
+                <label>
+                    Name:
+                    <input type="text" formControlName="name" >
+                </label>  
+                <label>
+                    Type:
+                    <select placeholder="select type..." formControlName="type">
+                        <option *ngFor="let t of enumKeys" [value]="t" >
+                            {{bikeType[t]}}
+                        </option>
+                    </select>
+                </label>  
+                <label>
+                    Price:
+                    <input type="number" formControlName="price">
+                </label>
+                <div>
+    
+                    <button class="btn btn-success" (click)="addBike()">
+                        Add new Bike
+                    </button> 
+                </div>
+            </form>
+        </mat-card>
     </div>
+    <mat-card>
+        <mat-card-content *ngFor="let _bike of bikes">
+            <app-bike></app-bike>
+        </mat-card-content>
+    </mat-card>
 </body>

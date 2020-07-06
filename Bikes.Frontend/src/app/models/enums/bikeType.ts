@@ -1,4 +1,4 @@
 export enum BikeType{
-    Road,
-    Mountain
+    Road ,
+    Mountain 
 }
