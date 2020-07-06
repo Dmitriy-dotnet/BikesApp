@@ -1,8 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { FormBuilder, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
-//import {MatCardModule} from '@angular/material/card/';
-
+import {MatCardModule} from '@angular/material/card'
 
 
 import { AppComponent } from './app.component';
@@ -12,11 +11,12 @@ import { BikeAddingComponent } from './bike-adding/bike-adding.component';
   declarations: [
     AppComponent,
     HomeComponent,
-    BikeAddingComponent,
+    BikeAddingComponent
   ],
   imports: [
     BrowserModule,FormsModule,
-    ReactiveFormsModule, //MatCardModule
+    ReactiveFormsModule,MatCardModule
+
     
   ],
   providers: [FormBuilder],
